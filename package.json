@@ -1,0 +1,29 @@
+{
+  "name": "js-hw-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "start:dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KornieievaAnna/node-js-hw-1.git"
+  },
+  "keywords": [],
+  "author": "ANNA <annet1405@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KornieievaAnna/node-js-hw-1/issues"
+  },
+  "homepage": "https://github.com/KornieievaAnna/node-js-hw-1#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "commander": "^10.0.1",
+    "nanoid": "^3.3.6"
+  }
+}
